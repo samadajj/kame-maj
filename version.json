@@ -1,0 +1,8 @@
+{
+    "version":  "0.1.6",
+    "lien":  "https://raw.githubusercontent.com/samadajj/kame-maj/main/Kame-0.1.6-arm64.apk",
+    "apk":  "https://raw.githubusercontent.com/samadajj/kame-maj/main/Kame-0.1.6-arm64.apk",
+    "sha256":  "e0612618afcc6e2d409c120fc665f5fca2b8e888b8aab5565745174e0d9a48f9",
+    "notes":  "Mots jamais coupés, prémisse qui garde toutes tes réponses, sauvegarde Google en un appui, nouvel accueil, musique au rythme, changements d\u0027onglet plus fluides.",
+    "signature":  "release"
+}
